@@ -1,7 +1,7 @@
 # Hello, I'm Talha Maaz!
 
 
-I'm a second-semester BSc Computer Science student with a passion for machine learning and data science. Currently, I'm diving deep into Python, specifically focusing on libraries like Pandas and NumPy to enhance my data manipulation and analysis skills.
+I'm a  BSc Computer Science student with a passion for machine learning and data science. Currently, I'm diving deep into Python, specifically focusing on libraries like Pandas and NumPy to enhance my data manipulation and analysis skills.
 
 ## About Me
 
